@@ -11,8 +11,15 @@ Based on Matt Newkirk's [Manager Readme](https://mattnewkirk.com/2019/01/02/avoi
 **States lived in**: IL, OH, NY, VA, MA, NH<br/>
 **Countries visited**: 16<br/>
 **Education**: BS and MS Electrical Engineering from Virginia Tech<br/>
-**Hobbies**: Snow skiing, mountain biking, hiking, fishing, golf, ice hockey, handyman, ham radio, drones, electronics, model trains, audio engineering, all things music, archery and target shooting, and some rock climbing.
-**Personality** If you find this helpful: [ENTJ](https://www.16personalities.com/entj-personality). [Enneagram 3](https://www.enneagraminstitute.com/type-3). [Clifton Strengths: Strategic, Futuristic, Learner, Communication, Input](https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx). House of Slytherin. (I was bummed about this and took the test twice, but there you go.) [Love language: Words of Affirmation](https://www.5lovelanguages.com/). Birkman: too complicated of a system to list here. I can share it with you.
+**Hobbies**: Snow skiing, mountain biking, hiking, fishing, golf, ice hockey, handyman, ham radio, drones, electronics, model trains, audio engineering, all things music, archery and target shooting, and some rock climbing.<br/>
+**Personality**: If you find this helpful, here are some results.
+
+* [ENTJ](https://www.16personalities.com/entj-personality).
+* [Enneagram 3](https://www.enneagraminstitute.com/type-3).
+* [Clifton Strengths: Strategic, Futuristic, Learner, Communication, Input](https://www.gallup.com/cliftonstrengths/en/253715/34-cliftonstrengths-themes.aspx). 
+* House of Slytherin. (I was bummed about this and took the test twice, but there you go.)
+* [Love language: Words of Affirmation](https://www.5lovelanguages.com/). 
+* Birkman: too complicated of a system to list here. I can share it with you.
 
 ## Who cares about stats, who are you really?
 
@@ -20,15 +27,15 @@ I was born outside of Chicago to parents from Indiana. My parents were 18 and 23
 
 My personal value words are *Relationships, Humor, Adventure, Intellect, Achievement*. When I am able to keep these five things in balance, they help me show up as my best self. When these feel out of balance, I am more stressed and don't show up as well to others. Here's more detail on these value words.
 
-One of my favorite thing in the world is to have deep, thoughtful, personal conversations with other people. I believe strong interpersonal relationships on the foundation for everything good that happens. In the workplace, they are the foundation of trust. I don't enjoy transactional relationships, either in work or in my personal life. This means I frequently struggle with people who are guarded and can't open up to others. I also find it more difficult to establish meaningful relationhips over zoom or in remote work settings. I still try to do them, but it takes me longer.
+**Relationships:** One of my favorite thing in the world is to have deep, thoughtful, personal conversations with other people. I believe strong interpersonal relationships on the foundation for everything good that happens. In the workplace, they are the foundation of trust. I don't enjoy transactional relationships, either in work or in my personal life. This means I frequently struggle with people who are guarded and can't open up to others. I also find it more difficult to establish meaningful relationhips over zoom or in remote work settings. I still try to do them, but it takes me longer.
 
-I have a good sense of humor and love to laugh and have fun. My sense of humor can be irreverant at times, but you have to get to know me more intimately to see that side of me. My sense of humor translates much better to in-person relationships than remote life. Probably has something to do with comedic timing and being able to read a room. So learning to infuse humor when we are all on zoom all the time is something I'm still working on and haven't figure out.
+**Humor:** I have a good sense of humor and love to laugh and have fun. My sense of humor can be irreverant at times, but you have to get to know me more intimately to see that side of me. My sense of humor translates much better to in-person relationships than remote life. Probably has something to do with comedic timing and being able to read a room. So learning to infuse humor when we are all on zoom all the time is something I'm still working on and haven't figure out.
 
-Adventure is driving force of my life. As a shortcut, aventure to me means: explorer, naturist, and speed junkie. My hobbies list above covers several aspects of adventure. At this point in my life, I still enjoy the adrenaline rush of speed, and skiing and mountian biking help meet that need. Nature recharges me, so I try to get time outside almost daily. I like to travel, even for day trips of exploration. And I dream of one day flying a jet pack or a human-sized drone. I need to do this before I get too old and people say, "Doug, do you really think that's a good idea?" 😄
+**Adventure:** Adventure is driving force of my life. As a shortcut, aventure to me means: explorer, naturist, and speed junkie. My hobbies list above covers several aspects of adventure. At this point in my life, I still enjoy the adrenaline rush of speed, and skiing and mountian biking help meet that need. Nature recharges me, so I try to get time outside almost daily. I like to travel, even for day trips of exploration. And I dream of one day flying a jet pack or a human-sized drone. I need to do this before I get too old and people say, "Doug, do you really think that's a good idea?" 😄
 
-On the topic of intellect, I'm a smart and cerebral guy. It's not just book smarts or cool technical things, though. I like life wisdom. Not quite philosophy or religion, but more the study of humans and how we all interact. I am deeply curious about humans and humanity. I actually think this is really important to be a good manager.
+**Intellect:** On the topic of intellect, I'm a smart and cerebral guy. It's not just book smarts or cool technical things, though. I like life wisdom. Not quite philosophy or religion, but more the study of humans and how we all interact. I am deeply curious about humans and humanity. I actually think this is really important to be a good manager.
 
-When it comes to achievement, I have a lot of drive, both professionally and personally. I guess you can put me in the stererotypical high acheiver bucket. Why this is important...that's a conversation for us to have as we build a meaningful realtionship with each other. See also, House of Slytherin. 
+**Achievement:** When it comes to achievement, I have a lot of drive, both professionally and personally. I guess you can put me in the stererotypical high acheiver bucket. Why this is important...that's a conversation for us to have as we build a meaningful realtionship with each other. See also, House of Slytherin. 
 
 Ok, one last thing. Ask me what I live for, and I'll tell you that I like to *build and belong*. Building means a lot of things. It means all things maker-related and goes back to my desire to be a mad scientist investor. Building alost means building my family, buildng relationships, building teams, bulding organizations, and building companies. I'm happy when I'm building. Beloging is about relationships: my family, my community, my friends, my extended tribe, and my company. 
 
@@ -107,23 +114,23 @@ I want a balance here, though. I've worked in companies where everything is base
 
 I will strive for a balance. I will ask you to do the same.
 
-## Ok, what is something most people don't know about me?
+## Ok, what are some things people don't know about me?
 
 You made it this far. So here are a couple of nuggets.
 
 1. I've been airborne in a car. Twice. As a teenager. Both times were brief but memorable.
-2. I've been electrocuted multiple times. It's a hazard of playing with electronics. The worst was a 10,000 volt HeNe laser power supply. I'm not sure how that didn't kill me. I'm a lot more careful now! Fun fact: being shocked by AC feels different than being shocked by DC. It's a "tickle" vs. a "zap" in case you were wondering. 
+2. I've been electrocuted multiple times. It's a hazard of playing with electronics. The worst was a 10,000 volt HeNe laser power supply. I'm not sure how that didn't kill me. I'm a lot more careful now! Fun fact: being shocked by AC (alternating current - what comes out of the wall plugs) feels different than being shocked by DC (direct current - what comes out of batteries). AC is a "tickle" and DC is a "zap" in case you were wondering. That laser power supply was a 10,000 volt zap that *really* hurt. 
 3. I journal constantly. Journalling is one of the ways I think and process things.
 4. I sing a lot. I'm not that great, but I love music. 
-5. I wanted to be a mad scientist inventor as a kid. I read books about Tesla and Edison and dreamed about building labs for investing. I've actually kind of done this in real life, but I have more plans. :evil-laughter:
+5. I wanted to be a mad scientist inventor as a kid. I read books about Tesla and Edison and dreamed about building labs for inventing. I've actually kind of done this in real life, but I have more plans. :evil-laughter:
 
-# Life Philosophy: Let The Mountain Take You
+## Life Philosophy: Let The Mountain Take You
 
-I love to ski, and I have a philosophy of life to share with you as an analogy.
+I love to ski. This is how I view life:
 
 *When you first learn to ski or snowboard, you fight the mountain. A beginner skier snowplows. A beginner snow boarder rides the back end of the board.*
 
-*Then as skiers and boarders learn to turn, they being carving wide turns to control speed and descent, and they meander down slowly. This takes a lot of energy because they're still working against the mountain.*
+*Then as skiers and boarders learn to turn, they begin carving wide turns to control speed and descent, and they meander down slowly. This takes a lot of energy because they're still working against the mountain.*
 
 *The turning point for a skier or boarder is when you learn to let go...when you learn to stop fighting the mountain. This is the point when you've developed enough skill that you can let go and let the mountain take you. You're still carving and picking a line, but it takes much less physical exertion. You aren't fighting. You're going where the mountain wants you to go.*
 
