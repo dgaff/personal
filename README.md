@@ -1,4 +1,4 @@
-# Doug Gaff Mangaer Readme
+# Doug Gaff Manager Readme
 
 Based on Matt Newkirk's [Manager Readme](https://mattnewkirk.com/2019/01/02/avoiding-mistakes-with-your-manager-readme/) this document is to help you get to know me as a manager. Matt says that manager readmes should 1) Share expectations to reduce a person's anxiety working with you and 2) Build trust as they get to know you. I would add that **I want you to know me as a person first, manager second**, and this document attempts to accomplish that.
 
