@@ -55,28 +55,28 @@ I have more flaws, but I think they are side effects of these two big ones. Howe
 
 ## What to expect from me & what I need from you
 
-This section is organized by my leadership principles. These principles describe how I will strive to work with you. I won't always get this right, of course, but if I'm doing a good job, this is what you can expect.
+I’m an executive who typically runs large teams with multiple layers of management. So for this section, I want to accomplish two things. First, I want anyone reading this to know what my leadership principles are for a healthy organization, and second, if you work for me, I want you to know what I need from you in order to make these principles succeed. 
 
 ### Honesty & Transparency
 
-Perhaps you can tell from this readme, but I'm a very transparent person. I will be transparent with you, sometimes to a fault. I will tell you what I'm thinking. I will tell you what I'm worried about. Barring any legal or regulatory issues, I will tell you what's going on at the company. 
+Perhaps you can tell from this readme, but I'm a very honest and transparent person. I will be transparent with you, sometimes to a fault. I will tell you what I'm thinking. I will tell you what I'm worried about. Barring any legal or regulatory issues, I will tell you what's going on at the company. 
   
 * Talk to me about anything & everything.
 * If you feel like you're failing, tell me. I might feel that way, too, but don't worry. I will work to support you to get you to a better spot.
 * Fail as fast as you can, and then learn.
 * Don't kiss my ass. I can see through it, and it will erode my trust in you.
 
-If you don't hear from me, it's not because I've abandoned you, it's likely because I'm swamped. My communication gets really poor when I'm overloaded.
+If you don't hear from me, it's not because I’m frustrated with you. It's likely because I'm swamped. My communication gets really poor when I'm overloaded.
 
-Finally, *I hate company politics, and I despise people who are in it for themselves.* I have a pretty good bullshit meter, so if you try it, I will very likely see through it. If you are repeatedly political, I will write you off. Seriously, politics are the opposite of my value of honesty.
+Finally, because it’s anathema to honesty, I should tell you that *I hate company politics.* What does this mean? For me, it’s, “people who consistently act in their own self-interest,” “people who step on others to get what they want,” or “people who play games to gain power.” I have a pretty good bullshit meter, and I see through this stuff quickly. For anyone working with me, if I see this regularly, I will write you off. 
 
 ### Empathy & Feedback
 
-Hopefully at this point you can see how empathy plays a big part in how I lead. I will give you a lot of rope to learn and grow, likely more than other managers have given you and sometimes more than I should. This comes from my belief that everyone can grow and get better with the right feedback and growth mindset. So, if you're being transparent with me about what's working and not working for you, I will be more engaged in your success. This is a “trust first” model, not a “trust but verify” model.
+Hopefully at this point you can see how empathy plays a big part in how I lead. For folks who report to me, I will give you a lot of rope to learn and grow, likely more than other managers have given you in your past and sometimes more than I should. This comes from my belief that everyone can grow and get better with the right feedback and growth mindset. So, if you're being transparent with me about what's working and not working for you, I will be more engaged in your success. This is a “trust first” model, not a “trust but verify” model.
 
-I will give you feedback. I want you to hear it as "I trust you and have confidence in you, so I'm telling you this to help you succeed." I will still get frustrated sometimes, especially if I feel like you're not telling me everything. And of course, empathy doesn't mean that I won't hold you accountable. Empathy also means having a tough conversation about how a role might not be working out. 
+I will give you feedback, and I noted above, I will sometimes struggle with the right volume. I want you to hear it as "I trust you and have confidence in you, so I'm telling you this to help you succeed." I will still get frustrated sometimes, especially if I feel like you're not telling me everything. And of course, empathy doesn't mean that I won't hold you accountable. Empathy also means having a tough conversation about how a role might not be working out for you. 
 
-I need empathy and feedback from you, too. I have a hard job that is frequently tiring. Sometimes I'm not at my best self. So if I seem frustrated, ask me what's going on. Ask me how I'm doing. If you need to give feedback to me, you don't need to sugar coat it. Just please try to be specific in your feedback and please be clear about what you need. And don’t be a jerk.
+I need empathy and feedback from you, too. I have a hard job that is frequently tiring. Sometimes I'm not at my best self. So if I seem frustrated, ask me what's going on. Ask me how I'm doing. If you need to give feedback to me, you don't need to sugarcoat it. Just please try to be specific in your feedback and please be clear about what you need from me. And don’t be a jerk.
 
 Finally, ask me for pep talks. I’m not great at celebrating wins, and if you haven't gotten praise from me recently, please just ask for it. I'll deliver.
 
@@ -104,9 +104,9 @@ What I need from you here is simple: use all of your leadership skills to ensure
 
 ### Collaborative Decisions
 
-I like to hear everyone's input on important decisions. Usually this is good, but sometimes it can be slow. When I build teams, I find people who know more than I do. So I rely on my team to help with decisions. As an executive, this means I rely on my senior leadership team for discussion and debate. If a clear decision emerges, we'll go with that. If there isn't one, I will try to make the call.
+I like to hear everyone's input on important decisions. Usually this is good, but sometimes it can be slow. When I build teams, I find people who know more than I do. So I rely on my team to help with important decisions. As an executive, this means I rely on my senior leadership team for discussion and debate. If a clear decision emerges from that discussion, we'll go with that. If there isn't one, I will try to make the call.
 
-This can be a point of weakness sometimes, as I am working to be more decisive. In reality, I have opinions on everything (see stubbornness above), but I overcorrect for this by driving towards consensus. This can lead to me not making a needed crisp decision in the moment. You must call me out, "Doug, make the damn decision!" 
+This can be a point of weakness sometimes, too, as I am working to be more decisive. In reality, I have opinions on everything (see stubbornness above), but I overcorrect for this by driving towards consensus. This can lead to me not making a needed crisp decision in the moment. You must call me out, "Doug, make the damn decision!" 
 
 When you are working with your teams, I want you to get your managers or engineers to collaborate, too.
 
@@ -126,5 +126,5 @@ You made it this far. So here are a couple of nuggets.
 2. I've been electrocuted multiple times. It's a hazard of playing with electronics. The worst was a 10,000 volt HeNe laser power supply. I'm not sure how that didn't kill me. I'm a lot more careful now! Fun fact: being shocked by AC (alternating current - what comes out of the wall plugs) feels different than being shocked by DC (direct current - what comes out of batteries). AC is a "tickle" and DC is a "zap" in case you were wondering. That laser power supply was a 10,000 volt zap that *really* hurt. 
 3. I journal constantly. Journalling is one of the ways I think and process things.
 4. I sing a lot. I'm not that great, but I love music. 
-5. I love cats.
+5. I love cats. Don’t worry, I like dogs, too, but I like cats because they seem to think they’re gods and that we work for them. They might actually be gods, though. Best not to chance it and instead just do what they ask of us.
 
