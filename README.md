@@ -6,8 +6,8 @@ Based on Matt Newkirk's [Manager Readme](https://mattnewkirk.com/2019/01/02/avoi
 
 <img src="IMG_2085.jpeg" width="300" />
 
-**Age:** 49<br/>
-**Family**: Brenda, Delia, and Ginger the cat<br/>
+**Age:** 50<br/>
+**Family**: Brenda, Eliot, and Ginger the cat<br/>
 **States lived in**: IL, OH, NY, VA, MA, NH<br/>
 **Countries visited**: 16<br/>
 **Education**: BS and MS Electrical Engineering from Virginia Tech<br/>
